@@ -1,0 +1,30 @@
+{
+    "standard_dnn": {
+        "accuracy": 0.941,
+        "precision": 0.9398393030694635,
+        "recall": 0.941,
+        "f1": 0.9390800935993987
+    },
+    "quantum_inspired": {
+        "accuracy": 0.9426666666666667,
+        "precision": 0.9416054875833907,
+        "recall": 0.9426666666666667,
+        "f1": 0.9416194284499014
+    },
+    "improvement": {
+        "accuracy_improvement_pct": 0.1771165426850909,
+        "winner": "quantum_inspired",
+        "absolute_gain": 0.0016666666666667052
+    },
+    "architecture": {
+        "type": "enhanced_quantum_inspired",
+        "features": [
+            "triple_quantum_interference",
+            "multi_path_entanglement",
+            "attention_like_gating",
+            "residual_connections",
+            "advanced_regularization"
+        ]
+    },
+    "timestamp": "2026-01-11 08:21:44"
+}
